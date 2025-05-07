@@ -14,7 +14,7 @@ aida64也可以实现，但我觉得太臃肿了，不够轻量化，于是找�
 
 ![setting](settings.png)
 
-开了后就可以用python异步获取json数据，格式化清理获取到的数据，然后mqtt发送给自建的emqx（mqtt服务器），再在ha中添加mqtt就可以了。
+开了后就可以用python异步获取json数据，格式化和筛选获取到的数据，通过mqtt发送给自建的emqx（mqtt服务器），再在ha中添加mqtt就可以了。
 
 效果图如下：
 
