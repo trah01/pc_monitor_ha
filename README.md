@@ -1,6 +1,6 @@
 # pc_monitor_ha（Home Assistant 电脑监控）
 
-[英文版](README_en.md)
+[English version](README_en.md)
 
 不清楚现在有没有现成的项目，反正自己研究一个吧，仅提供一个思路，不通用，如果有更好的改进版本，我很乐意使用！（非专业码农）
 
